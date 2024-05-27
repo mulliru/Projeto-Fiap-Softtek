@@ -1,0 +1,30 @@
+BUILDING RELATIONAL DATABASE
+
+Pontuação
+
+Apresentação do Modelo
+• Apresentar o modelo descritivo e o modelo de classes UML - 5 pts
+
+Modelagem da Base de Dados
+• Apresentar a modelagem da base de dados - DER, MLR, MF e Dicionário de dados - 5 pts
+• Obs: Ferramenta: Data Modeler
+
+Criação da Codificação SQL
+• DDL: Estrutura das tabelas e suas constraints
+• DML: Imputação de dados - mínimo de 5 linhas por tabela
+• DQL:
+
+1 relatório usando classificação crescente de dados
+1 relatório usando BETWEEN e LIKE
+1 relatório usando função de caractere (à sua escolha)
+1 relatório usando função de data (à sua escolha)
+1 relatório usando GROUP BY
+1 relatório usando junção de equivalência
+1 relatório usando junção de diferença
+• Obs: 10 pontos por relatório
+
+Entrega
+• Arquivo: Submeter arquivo no portal.
+
+Composição do arquivo: PDF contendo a identificação dos integrantes e a modelagem (imagens)
+Arquivo TXT ou SQL com a codificação DDL, DML e DQL, também com a identificação dos integrantes

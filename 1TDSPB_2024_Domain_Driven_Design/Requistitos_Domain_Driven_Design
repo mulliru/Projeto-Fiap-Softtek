@@ -1,0 +1,22 @@
+DOMAIN DRIVEN DESIGN
+
+Documentação:
+1. Capa contendo o nome do projeto, RM dos integrantes e nome completo, índice, explicação e justificativa do projeto. (0,50 ponto)
+2. Link do Github do repositório do projeto. (0,50 ponto)
+3. Diagrama de classes refletindo o código Java, com no mínimo 10 classes. Prints no .doc. (10 pontos)
+4. Print do protótipo das telas do front-end e das tabelas do banco de dados. (0,50 ponto)
+
+Projeto Java:
+1. Tratamento de exceções com pacote para classes de exceções. (10 pontos)
+2. Camada de conexão com o Banco de Dados, incluindo CRUD (Inserir, Deletar, Alterar, Selecionar). (10 pontos)
+3. Integração Back-End com Front-End com no mínimo quatro páginas no Front-End. (30 pontos)
+4. Camada BO com métodos intermediários da API. (10 pontos)
+5. Padrões de projeto implementados. (0,50 ponto)
+6. Duas APIs externas (exemplo: ViaCEP e outra à escolha). (10 pontos)
+
+Entrega:
+1. Pasta contendo:
+   - Documento .doc com a parte escrita e prints dos diagramas de classe, página do front-end, e modelagem relacional do banco de dados.
+   - Projeto Java exportado da IDE com usuário e senha na classe de conexão.
+   - Vídeo de 2 min explicando o desenvolvimento e mostrando a integração na prática.
+2. Pasta compactada (.zip) contendo o projeto Java e a documentação em PDF, enviada através do Portal da FIAP.
